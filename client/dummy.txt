@@ -85,3 +85,4 @@
 2025-03-19 10:00:00 +0530 - Create homepage layout
 2025-03-20 10:00:00 +0530 - Add user authentication endpoints
 2025-03-21 10:00:00 +0530 - Add product listing page
+2025-03-22 10:00:00 +0530 - Add user model and schema
