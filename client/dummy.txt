@@ -48,3 +48,4 @@
 2025-03-01 08:06:48 +0530 - Add user model and schema
 2025-03-01 07:48:27 +0530 - Setup Redux store
 2025-03-01 08:28:25 +0530 - Implement sorting and filtering
+2025-03-01 08:45:28 +0530 - Implement JWT token authentication
