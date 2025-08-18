@@ -1,6 +1,6 @@
-# FinalBoss LMS
+#  LMS
 
-FinalBoss LMS is a modern MERN-stack Learning Management System (LMS) that allows users to browse courses, purchase via PayPal, and track their learning progress.
+LMS is a modern MERN-stack Learning Management System (LMS) that allows users to browse courses, purchase via PayPal, and track their learning progress.
 
 ## Features
 
@@ -24,7 +24,7 @@ FinalBoss LMS is a modern MERN-stack Learning Management System (LMS) that allow
 
  Clone the repo:
 ```bash
-git clone https://github.com/nirupshrestha/finalbosslms.git
-cd finalbosslms
+git clone https://github.com/nirupshrestha/lms.git
+cd lms
 
 
